@@ -1,6 +1,6 @@
 #### Hi👋
 ### I'm Sreenath 
-<img src="https://i.pinimg.com/originals/4a/7c/82/4a7c82f1225811fee292489f489c3770.gif" width=75 height=100 align="right"></img>
+<img src="https://i.pinimg.com/originals/4a/7c/82/4a7c82f1225811fee292489f489c3770.gif" width=112 height=150 align="right"></img>
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on interesting projects
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sreenath-kp-54862022a)
