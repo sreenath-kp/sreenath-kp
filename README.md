@@ -3,7 +3,7 @@
 ### Hi👋
 ## I'm Sreenath 
 
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m a Flutter Developer
 - 👯 I’m looking to collaborate on interesting projects
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kpsreenath/)
 
