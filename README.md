@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/4a/7c/82/4a7c82f1225811fee292489f489c3770.gif" width=224 height=300 align="right"></img>
+<img src="https://i.pinimg.com/originals/4a/7c/82/4a7c82f1225811fee292489f489c3770.gif" width=168 height=225 align="right"></img>
 
 ### Hi👋
 ## I'm Sreenath 
